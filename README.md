@@ -4,7 +4,7 @@ Hello everyone. So this is an open source GUI graph calculator, created with Pyt
 There are several files in this repository.
 
 ## 1. Graph Calculator.exe
-This is the executable file. Just download this repository and double click this file. You don't even need to install anything. It's a portable version.
+This is the executable file. I'm sorry I have a trouble in pushing my repo from local to remote so I put the exe file [here][https://drive.google.com/drive/folders/1uW5DIvkz52d5Sk4JRglUw4Be8pwc0xFb?usp=sharing] in my drive. Just download it from there. You don't even need to install anything. It's a portable version.
 
 ## 2. graph_calculator.py
 This is the python code of this software. If you're familiar with Python, feel free to edit it and even develop it as you want.
