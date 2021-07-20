@@ -1,0 +1,4 @@
+1. Thickened constant line.
+2. Options to add or hide grid.
+3. Plot 3D curves.
+4. Plot parametric function.
